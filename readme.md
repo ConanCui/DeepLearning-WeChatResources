@@ -24,10 +24,11 @@
 | [**图卷积网络到底怎么做，这是一份极简的Numpy实现**](https://mp.weixin.qq.com/s/sg9O761F0KHAmCPOfMW_kQ) |
 | [AAAI 2019教程—361页PPT带你回顾最新词句Embedding技术和应用](https://mp.weixin.qq.com/s/caG7kwZfo2qpvLDbrvfpng) |
 | [神经信息检索导论，微软研究员129页最新书册](https://mp.weixin.qq.com/s/5ba3EM6e9R-i3UpzUhm49w) |
+| [最新36页《贝叶斯非参学习综述》，机器学习内功修炼手册](https://mp.weixin.qq.com/s/bjyO4AS1Sjo09qNMpqf6JA) |
 | [一文解读NLP中的注意力机制](https://mp.weixin.qq.com/s/TM5poGwSGi5C9szO13GYxg) |
 | [卷积有多少种？一文读懂深度学习中的各种卷积](https://mp.weixin.qq.com/s/Olliwe3ux77H4Vlsn4IrCw) |
 | [机器学习中最最好用的提升方法：Boosting 与 AdaBoost](https://mp.weixin.qq.com/s/zx9eveRJ4b8EWxI7z4-f6w) |
-|                                                              |
+| [网络新闻真假难辨？机器学习来助你一臂之力](https://mp.weixin.qq.com/s/S0vUBFCfizjVe_L4SIrGqQ) |
 
 
 
@@ -41,11 +42,11 @@
 
 
 
-| 作图工具                                                     |
+| 工具                                                         |
 | ------------------------------------------------------------ |
 | [怎么画高大上的神经网络结构？试试这个！](https://mp.weixin.qq.com/s/UwPCDA89GH5X-HubeJddnQ) |
-|                                                              |
-|                                                              |
+| [**hyperopt网络参数调整工具**](https://github.com/hyperopt/hyperopt)![1551255282854](readme.assets/1551255282854.png) |
+| [paper with code 论文代码查询网站](https://paperswithcode.com)![1551255282854](readme.assets/1551255282854.png) |
 
 
 
@@ -81,4 +82,5 @@
 | [如何自动为IPython/Jupyter NoteBook 引入库](https://mp.weixin.qq.com/s/xZEIwTsfhkcQQBIJNqhPJg) |
 | [PyTorch 中文手册 - 帮助你使用PyTorch进深度学习快速入门！](https://mp.weixin.qq.com/s/oNaDNcxGGOr7ZkY5sFuXvQ) |
 | [微软开源项目提供企业级可扩展推荐系统最新实践指南](https://mp.weixin.qq.com/s/pBAnC06NQXhT3_q4jNimsQ) |
+| [TensorFlow可以“预装”数据集了，新功能Datasets出炉](https://mp.weixin.qq.com/s/maO5Cs2hU-PDXIVbvwPa3Q) |
 
