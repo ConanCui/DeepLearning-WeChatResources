@@ -33,6 +33,9 @@
 | [网络新闻真假难辨？机器学习来助你一臂之力](https://mp.weixin.qq.com/s/S0vUBFCfizjVe_L4SIrGqQ) |
 | [Ruder博士答辩41页PPT，面向自然语言处理的神经网络迁移学习](https://mp.weixin.qq.com/s/0Zcrwi3WROzm19ApDZINMQ) |
 | [CMU Russ教授《如何融合领域知识到深度学习中》, 38页ppt](https://mp.weixin.qq.com/s/87QkA36gXuEJeORVkR_ndQ)![1551255282854](readme.assets/1551255282854.png) |
+| [利用pytorch计算wasserstein距离](https://github.com/dfdazac/wassdistance)![1551255282854](readme.assets/1551255282854.png) |
+| [利用pytorch去implenment常见KG模型](https://github.com/DeepGraphLearning/KnowledgeGraphEmbedding) |
+| [常见模型涉及知识点分析大全，加发展路线和经典代码](https://skymind.ai/wiki/attention-mechanism-memory-network)![1551255282854](readme.assets/1551255282854.png) |
 
 
 
@@ -52,6 +55,7 @@
 | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [怎么画高大上的神经网络结构？试试这个！](https://mp.weixin.qq.com/s/UwPCDA89GH5X-HubeJddnQ) |
 | [**hyperopt网络参数调整工具**](https://github.com/hyperopt/hyperopt)![1551255282854](readme.assets/1551255282854.png) |
+| [SHERPA: A Python Hyperparameter Optimization Library（ tensorflow和keras的调参工具）](https://github.com/sherpa-ai/sherpa) |
 | [paper with code 论文代码查询网站](https://paperswithcode.com)![1551255282854](readme.assets/1551255282854.png) |
 | [GSP Toolbox](https://arxiv.org/pdf/1408.5781v1.pdf)![1551255282854](readme.assets/1551255282854.png) |
 
@@ -86,9 +90,10 @@
 
 
 
-| 框架工具                                                     |
+| 框架工具/github 资源                                         |
 | ------------------------------------------------------------ |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [用keras搭建的常见NLP模型，如分类，sequence tagging等](https://github.com/BrikerMan/Kashgari)![1551255282854](readme.assets/1551255282854.png) |
 | [Pytorch常见模型代码](https://github.com/ritchieng/the-incredible-pytorch) |
 | [一文解构PyTorch：40页PPT理解内部机制](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652039363&idx=5&sn=a7c858e6c8217414cb9a40d742adf5fe&chksm=f1219c32c65615241941cb72930ccab8bd05f899a027d761c3e526f08d5e19ddedbbe0bbdec1&scene=0&xtrack=1&key=65174d7f09beb1f54bf2a0cfcfd6823124597eab79ca79e3016cdf0b6fac638835ba35ffa6d231177df501e2f064dfbb80e0071716228ff1ff7bd93ec25c312663e1a7b8ac9f412437fd7ad417ed23cb&ascene=1&uin=MTI5ODUxMDk0NA%3D%3D&devicetype=Windows+10&version=62060728&lang=zh_CN&pass_ticket=LHwKo%2Bj8qIAvY3lpcQuaq64N28FNrgviPoCX7g5KLBFrD0zZQjByum%2BgRA9nr28m) |
 | [如何自动为IPython/Jupyter NoteBook 引入库](https://mp.weixin.qq.com/s/xZEIwTsfhkcQQBIJNqhPJg) |
@@ -97,4 +102,12 @@
 | [TensorFlow可以“预装”数据集了，新功能Datasets出炉](https://mp.weixin.qq.com/s/maO5Cs2hU-PDXIVbvwPa3Q) |
 | [500+星标，简单易用 TensorFlow 代码集，随查随看！](https://mp.weixin.qq.com/s/i6TihkjhfuRrlye162fTpw) |
 | [想读读PyTorch底层代码？这份内核机制简介送给你](https://mp.weixin.qq.com/s/TsR-jgO2c2-dbqnk1mEj8w) |
+
+
+
+|      |
+| ---- |
+|      |
+|      |
+|      |
 
