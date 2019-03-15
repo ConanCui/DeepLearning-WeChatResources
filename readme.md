@@ -9,6 +9,7 @@
 | [**清华张敏教授: 个性化推荐的可解释性、鲁棒性和公平性( 附报告下载)**](https://mp.weixin.qq.com/s/RAQrW6Fchynbc1Rd9IcOJQ) |
 | [**KDD 18 & AAAI 19 异构信息网络表示学习论文解读**](https://mp.weixin.qq.com/s/xyE9o8nx6TrabGGJwMzzIg) |
 | [图分类：结合胶囊网络Capsule和图卷积GCN（附代码）](https://mp.weixin.qq.com/s/6vhFfSh2mveBiZXB1oZb1Q) |
+| [注意力能提高模型可解释性？实验表明：并没有](https://mp.weixin.qq.com/s/LqjBFMXNl5KoUlfktp0w9w) |
 
 
 
@@ -25,8 +26,8 @@
 | [从最优化的角度看待 Softmax 损失函数](https://mp.weixin.qq.com/s/MTeuRYutMiCmthEAObyAIg) |
 | [**图卷积网络到底怎么做，这是一份极简的Numpy实现**](https://mp.weixin.qq.com/s/sg9O761F0KHAmCPOfMW_kQ) |
 | [AAAI 2019教程—361页PPT带你回顾最新词句Embedding技术和应用](https://mp.weixin.qq.com/s/caG7kwZfo2qpvLDbrvfpng) |
-| [神经信息检索导论，微软研究员129页最新书册](https://mp.weixin.qq.com/s/5ba3EM6e9R-i3UpzUhm49w) |
-| [最新36页《贝叶斯非参学习综述》，机器学习内功修炼手册](https://mp.weixin.qq.com/s/bjyO4AS1Sjo09qNMpqf6JA) |
+| [[综述]神经信息检索导论，微软研究员129页最新书册](https://mp.weixin.qq.com/s/5ba3EM6e9R-i3UpzUhm49w) |
+| [[综述]最新36页《贝叶斯非参学习综述》，机器学习内功修炼手册](https://mp.weixin.qq.com/s/bjyO4AS1Sjo09qNMpqf6JA) |
 | [一文解读NLP中的注意力机制](https://mp.weixin.qq.com/s/TM5poGwSGi5C9szO13GYxg) |
 | [卷积有多少种？一文读懂深度学习中的各种卷积](https://mp.weixin.qq.com/s/Olliwe3ux77H4Vlsn4IrCw) |
 | [机器学习中最最好用的提升方法：Boosting 与 AdaBoost](https://mp.weixin.qq.com/s/zx9eveRJ4b8EWxI7z4-f6w) |
@@ -36,6 +37,10 @@
 | [利用pytorch计算wasserstein距离](https://github.com/dfdazac/wassdistance)![1551255282854](readme.assets/1551255282854.png) |
 | [利用pytorch去implenment常见KG模型](https://github.com/DeepGraphLearning/KnowledgeGraphEmbedding) |
 | [常见模型涉及知识点分析大全，加发展路线和经典代码](https://skymind.ai/wiki/attention-mechanism-memory-network)![1551255282854](readme.assets/1551255282854.png) |
+| [[综述]迁移自适应学习最新综述，附21页论文下载](https://mp.weixin.qq.com/s/nIV7n8o7t2F3j0XFr9v-vg) |
+| [伯克利大学蒙特卡洛估计和重要性采样讲义](https://github.com/kevinzakka/monte-carlo)![1551255282854](readme.assets/1551255282854.png) |
+| [AAAI2019 Tutorial 《图表示学习》, 180页PPT带你从入门到精通](https://mp.weixin.qq.com/s/xc_TnMLs3o2LQ8eM4naZDw)![1551255282854](readme.assets/1551255282854.png) |
+| [知识图谱深度学习综述](https://wx.zsxq.com/mweb/views/topicdetail/topicdetail.html?topic_id=111182115221412&user_id=5448515554) |
 
 
 
@@ -65,7 +70,7 @@
 | ------------------------------------------------------------ |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [一文教你如何快速高效阅读Paper（硕士生版）](https://mp.weixin.qq.com/s/u3D1RX-ZCfwNa0IATvX0ug) |
-|                                                              |
+| [Latex写作注意事项github项目](https://github.com/Wookai/paper-tips-and-tricks#tips-and-tricks-for-writing-scientific-papers) |
 |                                                              |
 
 
@@ -86,7 +91,7 @@
 | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [带你全面认识自然语言处理三大特征抽取器](https://mp.weixin.qq.com/s?__biz=MzI1MjQ2OTQ3Ng==&mid=2247494178&idx=1&sn=3190dbf682a3315e55b5ff6801ff3f2c&chksm=e9e1e3a9de966abf7774459344a35dd6010dcf4cfbb45c1cc9b5324a76856c755850d4bf5f23&scene=0#rd) |
 | [回顾腾讯信息流平台部高级研究员赖坤锋：语意匹配—搜索和推荐的幕后](https://mp.weixin.qq.com/s?__biz=MzU1NTUxNTM0Mg==&mid=2247490419&idx=3&sn=0b5a995f33aff85846f743c15577289b&chksm=fbd277d2cca5fec4157f35ed5762036e21afcb0f385c7aea19cd29bebeef49210f67a509d62a&mpshare=1&scene=1&srcid=#rd) |
-|                                                              |
+| [推荐系统召回四模型之全能的FM模型](https://mp.weixin.qq.com/s?__biz=MzU1NTUxNTM0Mg==&mid=2247490516&idx=3&sn=9d27d35479ce45020b2c0e02a50b5872&chksm=fbd27775cca5fe6348bff06f3caa48375bd94b6c1cd2db6458234f19fbc1adb47891c4097491&scene=0&xtrack=1&key=b824cb4e3d5c36e8c6329adc818a837da8d1ad88d58b259f6592e34404b1ab30d3bfba08c778b4e821ed0ae5051469e3c2b7f14cc19dd09de2c876959591ee0780373f7392fcd36793df418b68d7a69c&ascene=1&uin=MTI5ODUxMDk0NA%3D%3D&devicetype=Windows+10&version=62060728&lang=zh_CN&pass_ticket=LP6wPjODpYEahKUrIp%2FDQd4qrQdAVnLev%2B%2BDjIPNsVb9k3OAEncdeEqdR56umvRm)![1551255282854](readme.assets/1551255282854.png) |
 
 
 
@@ -94,6 +99,8 @@
 | ------------------------------------------------------------ |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [用keras搭建的常见NLP模型，如分类，sequence tagging等](https://github.com/BrikerMan/Kashgari)![1551255282854](readme.assets/1551255282854.png) |
+| [TensorFlow 2.0快速上手指南12条：“Keras之父”亲授](https://mp.weixin.qq.com/s/YJMKiPP5e5quhks5E09yvw) |
+| [“让Keras更酷一些！”：分层的学习率和自由的梯度](https://mp.weixin.qq.com/s/4Nz2e_vNYgq_y01JFneSfw) |
 | [Pytorch常见模型代码](https://github.com/ritchieng/the-incredible-pytorch) |
 | [一文解构PyTorch：40页PPT理解内部机制](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652039363&idx=5&sn=a7c858e6c8217414cb9a40d742adf5fe&chksm=f1219c32c65615241941cb72930ccab8bd05f899a027d761c3e526f08d5e19ddedbbe0bbdec1&scene=0&xtrack=1&key=65174d7f09beb1f54bf2a0cfcfd6823124597eab79ca79e3016cdf0b6fac638835ba35ffa6d231177df501e2f064dfbb80e0071716228ff1ff7bd93ec25c312663e1a7b8ac9f412437fd7ad417ed23cb&ascene=1&uin=MTI5ODUxMDk0NA%3D%3D&devicetype=Windows+10&version=62060728&lang=zh_CN&pass_ticket=LHwKo%2Bj8qIAvY3lpcQuaq64N28FNrgviPoCX7g5KLBFrD0zZQjByum%2BgRA9nr28m) |
 | [如何自动为IPython/Jupyter NoteBook 引入库](https://mp.weixin.qq.com/s/xZEIwTsfhkcQQBIJNqhPJg) |
