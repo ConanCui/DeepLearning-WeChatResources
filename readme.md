@@ -28,6 +28,8 @@
 | [AAAI 2019教程—361页PPT带你回顾最新词句Embedding技术和应用](https://mp.weixin.qq.com/s/caG7kwZfo2qpvLDbrvfpng) |
 | [[综述]神经信息检索导论，微软研究员129页最新书册](https://mp.weixin.qq.com/s/5ba3EM6e9R-i3UpzUhm49w) |
 | [[综述]最新36页《贝叶斯非参学习综述》，机器学习内功修炼手册](https://mp.weixin.qq.com/s/bjyO4AS1Sjo09qNMpqf6JA) |
+| [【综述】万字综述之生成对抗网络（GAN）](<https://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247495668&idx=1&sn=e7e959b2bdd7b2763b9207ccb80fa6bc&chksm=96ea3074a19db96208a51d26f7b5b4ef9c3a37a7799ec270becc77203de4294235041ede7206&mpshare=1&scene=1&srcid=&key=c0631fa9ad87741cc520ba6455929cad392803c0f9ea1d2bb04b5e2b359e08fd13e92d6e6ae34668ffcc3300d87bbb64130cc03e611800d6d612cf50882d91a55b8dd17e9c34c0e76b8ddb61ab882745&ascene=1&uin=MTI5ODUxMDk0NA%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=y93mW3Jy%2BZgcd1GQtje4Rb66rgLej%2BokV797xnereS4%2BchmCJi%2BIvyXlcrVYq0ch>) |
+| [【综述】最新综述】无监督网络表示学习综述，附18页全文下载](<https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247508959&idx=1&sn=e5ef0e9344b2c344e8251729323f023c&chksm=fc8642cccbf1cbdae63432b74486f419d54fc718a0a0e8f3f136b0208c95f920aefd4ce859c2&scene=0&xtrack=1&key=54e754b9be6197c7eda23f08e912e25dddb00e41bd552f8111e699f83bca5dfea88546352b2e7920e9050e0bfe5c4ef6d52858aaedd0c99112c1f01aca0a06612252d83d278ce1d11542b63b053675ab&ascene=1&uin=MTI5ODUxMDk0NA%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=lxHeD4n4yFGLJjjKhJIfhVNUKmQx%2Fo8quenvQfVfdcCIYZwFnKy8wiz7DDwJudKq>) |
 | [一文解读NLP中的注意力机制](https://mp.weixin.qq.com/s/TM5poGwSGi5C9szO13GYxg) |
 | [卷积有多少种？一文读懂深度学习中的各种卷积](https://mp.weixin.qq.com/s/Olliwe3ux77H4Vlsn4IrCw) |
 | [机器学习中最最好用的提升方法：Boosting 与 AdaBoost](https://mp.weixin.qq.com/s/zx9eveRJ4b8EWxI7z4-f6w) |
@@ -36,11 +38,13 @@
 | [CMU Russ教授《如何融合领域知识到深度学习中》, 38页ppt](https://mp.weixin.qq.com/s/87QkA36gXuEJeORVkR_ndQ)![1551255282854](readme.assets/1551255282854.png) |
 | [利用pytorch计算wasserstein距离](https://github.com/dfdazac/wassdistance)![1551255282854](readme.assets/1551255282854.png) |
 | [利用pytorch去implenment常见KG模型](https://github.com/DeepGraphLearning/KnowledgeGraphEmbedding) |
-| [常见模型涉及知识点分析大全，加发展路线和经典代码](https://skymind.ai/wiki/attention-mechanism-memory-network)![1551255282854](readme.assets/1551255282854.png) |
+| [**常见模型的发展路线解析和代码**![1551255282854](readme.assets/1551255282854.png)](https://skymind.ai/wiki/attention-mechanism-memory-network) |
 | [[综述]迁移自适应学习最新综述，附21页论文下载](https://mp.weixin.qq.com/s/nIV7n8o7t2F3j0XFr9v-vg) |
 | [伯克利大学蒙特卡洛估计和重要性采样讲义](https://github.com/kevinzakka/monte-carlo)![1551255282854](readme.assets/1551255282854.png) |
 | [AAAI2019 Tutorial 《图表示学习》, 180页PPT带你从入门到精通](https://mp.weixin.qq.com/s/xc_TnMLs3o2LQ8eM4naZDw)![1551255282854](readme.assets/1551255282854.png) |
 | [知识图谱深度学习综述](https://wx.zsxq.com/mweb/views/topicdetail/topicdetail.html?topic_id=111182115221412&user_id=5448515554) |
+| [【面试】机器学习算法中的概率方法](https://mp.weixin.qq.com/s?__biz=MzI4MDYzNzg4Mw==&mid=2247489053&idx=4&sn=bb477e2af97d0f4c0a1d11ae1b8a2af3&chksm=ebb42ec9dcc3a7dffef3cb633cce58c79d4d3c6b835394b43d64fc296908f5d277f549dc42c6&scene=0&xtrack=1&key=c0631fa9ad87741c7766f0b177ce4bd2d411750707800b6795a0dbc65d1c9c048dcd5ccd6f433dcc2b6dc5f66c54bf26f4869dd513960f4c333df6d1263ee3fba559c80115d85387c01c48cbc049d194&ascene=1&uin=MTI5ODUxMDk0NA%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=b7aCz5SYWACzEngozNpdsQ4hrW5EImxRRnOYIfoVdDcBHQdV1qeLQmwaDbEfZadx) |
+| [【面试】75道常见AI面试题，看看你的知识盲点在哪？（附解析）](https://mp.weixin.qq.com/s?__biz=MzI4MDYzNzg4Mw==&mid=2247489053&idx=3&sn=f09ab8882a7df178e451b1f2561bbc19&chksm=ebb42ec9dcc3a7df8a32311f9502a26cb10b2439b0a2ac370017e87835c820ee25ca6e8ebc25&scene=0&xtrack=1&key=a9d4b584c784361897a3fe6e1145acfb6e956e4ed8079cffcb38d6b8eac56f21a68c8ac8e16a37d75012e40c1d5ada521776c1c8d84ac68683a21e061f51581e2befe735a4ee06802480a0af4f810f33&ascene=1&uin=MTI5ODUxMDk0NA%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=b7aCz5SYWACzEngozNpdsQ4hrW5EImxRRnOYIfoVdDcBHQdV1qeLQmwaDbEfZadx) |
 
 
 
@@ -112,9 +116,9 @@
 
 
 
-|      |
-| ---- |
-|      |
-|      |
-|      |
+| 网络课程                                                     |
+| ------------------------------------------------------------ |
+| [中文课程！台大李宏毅机器学习公开课2019版上线](<https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650758780&idx=2&sn=25dbf006ead8e67676ba3d7062324ede&chksm=871a9a02b06d1314b4b76e4f4f2c35c0f47e378a12909ceeb1643e40d654cfe997fefef8e005&mpshare=1&scene=1&srcid=&key=14af0718ac9cde95a75ddda240e3a7d2c3d155d006124138c942bd2c63335aa0cb71179bcc2c624eda1121c80804ee152b50e524201068fd007deadccdd7c4a31ee8493ce28ce090b2ccecc0b5297153&ascene=1&uin=MTI5ODUxMDk0NA%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=b7aCz5SYWACzEngozNpdsQ4hrW5EImxRRnOYIfoVdDcBHQdV1qeLQmwaDbEfZadx>) |
+|                                                              |
+|                                                              |
 
